@@ -1,2 +1,13 @@
-# e-commerce-back-end
-Back-end build for an e-commerce website.
+# E-Commerce Back End
+
+## Description
+
+Simple back-end build for an e-commerce website.
+
+## Installation
+
+## Usage
+
+## Technologies
+
+## Questions
